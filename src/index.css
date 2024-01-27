@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800&family=Share+Tech&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'ethnocentricregular';
+    src: url('../public//webFonts/ethnocentric_rg-webfont.woff2') format('woff2'),
+         url('../public/webFonts/ethnocentric_rg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.strTxt{
+    -webkit-text-stroke: 1px whitesmoke;
+}
+
