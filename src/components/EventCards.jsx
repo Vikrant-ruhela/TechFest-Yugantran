@@ -24,7 +24,7 @@ const EventCards = () => {
         <Fade cascade={false} triggerOnce={true} >
         <EventC title="Typing Thunder" description="Everyone is typing but let's find out who is the fastest of us and evaluating words per minute, accuracy, and efficiency, fostering fast and precise typing skills, in a competitive and engaging environment." path="typingthunder" />
         <EventC title="TERROR OF ERROR" description="In this participants to identify and fix errors in computer programs, fostering problem-solving skills, precision, and attention to detail in the field of software development." path="terroroferror" />
-        <EventC title="Design showdown" description="This event invites participants to design visually appealing posters and logos, showcasing artistic talent, originality, and effective communication in graphic design." path="designshowdown" />         
+        <EventC title="Design showdown" description="This event invites participants to design visually appealing posters, showcasing artistic talent, originality, and effective communication in graphic design." path="designshowdown" />         
         </Fade>
       </div>
       <div className="container">
@@ -36,7 +36,6 @@ const EventCards = () => {
       </div>
       <div className="container">
         <Fade cascade={false} triggerOnce={true} >
-        <EventC title="Argument Arena" description="Argument arena features participants presenting compelling arguments, honing persuasive skills, and advocating their viewpoints in a structured manner." path="argumentarena" />
         <EventC title="Mini Project" description="An exciting project competition where participants display their talent to create software and hardware projects, unveiling innovation and creativity. " path="innovision" />
         </Fade>
       </div>
